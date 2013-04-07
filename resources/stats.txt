@@ -1,0 +1,52 @@
+Basic Turret
+20,3,100,2,1,Quick Turret,Double Turret,Heavy Turret,Sniper Turret
+Quick Turret
+60,5,100,2,2,Quick Turret 2,Double Quick Turret
+Double Turret
+60,3,100,2,1,Double Quick Turret,Double Turret 2,Triple Turret,Double Heavy Turret
+Heavy Turret
+80,2,80,4,3,Double Heavy Turret,Heavy Turret 2
+Sniper Turret
+84,2,120,3,2,Sniper Turret 2
+Quick Turret 2
+102,6,100,3,2,Quick Turret 3,Machine Gun,Double Quick Turret 2
+Double Quick Turret
+103,5,100,2,2,Double Quick Turret 2,Lightning Turret
+Double Turret 2
+84,3,100,3,2,Double Quick Turret 2,Double Turret 3,Poison Turret
+Triple Turret
+123,3,100,2,2,Triple Turret 2,Octa Turret
+Double Heavy Turret
+96,2,80,4,3,Double Heavy Turret 2,Ice Turret
+Heavy Turret 2
+89,3,80,4,4,Double Heavy Turret 2,Heavy Turret 3,Missile Launcher
+Sniper Turret 2
+126,1,130,6,3,Sniper Turret 3,Laser
+Quick Turret 3
+312,8,100,3,3
+Machine Gun
+528,15,100,3,4
+Double Quick Turret 2
+365,6,100,3,2
+Double Turret 3
+355,4,100,3,3 
+Triple Turret 2
+412,3,100,2,3
+Octa Turret
+814,3,100,2,2
+Double Heavy Turret 2
+301,3,80,4,4
+Heavy Turret 3
+302,3,80,5,5
+Sniper Turret 3
+309,1,150,8,4
+Laser
+600,0.5,150,1,25
+Missile Launcher
+700,0.5,150,1,20
+Lightning Turret
+560,1,120,1,5
+Poison Turret
+630,1,100,2,0
+Ice Turret
+690,1,100,4,5
